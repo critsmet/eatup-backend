@@ -9,4 +9,4 @@ https://github.com/critsmet/eatup-back-end
 
 3) The log-in page is only for demonstration and has no real authentication--use whatever string you'd like. What you enter as your e-mail address will be required to future logins. 
 
-4) Enter several places to eat! palce
+4) Enter several locations to find a place to eat in the middle of all of them!
