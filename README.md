@@ -1,5 +1,7 @@
 EatUp is built on React and utilizes styling by Semantic UI and Google Maps components from Google Maps React. This project was built as a module four project at the Flatiron School. 
 
+For a video demo, click here: https://vimeo.com/286593021
+
 Coming soon to Heroku! To run this app in the meantime:
 
 1) Follow the instructions for hosting the back-end on your local server:
