@@ -10,7 +10,7 @@ export default class FavoritesContainer extends Component {
 
   componentDidMount(){
     const id = this.props.userId
-    fetch(`http://localhost:3000/api/v1/users/${id}`)
+    fetch(`https://eatup-back-end.herokuapp.com/api/v1/users/${id}`)
       .then(res => res.json()).then(res => this.setState({favorites: res.data}))
   }
 
